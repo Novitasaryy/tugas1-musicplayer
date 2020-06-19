@@ -1,0 +1,19 @@
+{
+    "name": "win10/tugas1-musicplayer",
+    "description": "Program Praktikum Sistem Informasi Music Player Pemrograman Berbasis Web Lanjutan Prodi Sistem Informasi UIN Sumatera Utara Medan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Novita Sary",
+            "email": "novitasary133@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "app/"
+        }
+    }
+}

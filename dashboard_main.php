@@ -1,0 +1,1 @@
+<h2 align="center">Hai <?php echo $_SESSION['user_name']; ?>, Welcome to PlayMoo..</h2>
